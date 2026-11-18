@@ -3,8 +3,6 @@
 [![dbt build & publish](https://github.com/phanfolio/dbt-duckdb-pipeline/actions/workflows/dbt_build.yml/badge.svg)](https://github.com/phanfolio/dbt-duckdb-pipeline/actions/workflows/dbt_build.yml)
 [![dbt Docs](https://img.shields.io/badge/dbt_docs-live-blue)](https://phanfolio.github.io/dbt-duckdb-pipeline/)
 
-![dbt pipeline diagram](img/dbt_pipeline.png)
-
 A public dbt + DuckDB pipeline over ~692k real job postings, rebuilt and republished automatically on every push.
 
 - Models the raw postings into tested, documented insight marts
